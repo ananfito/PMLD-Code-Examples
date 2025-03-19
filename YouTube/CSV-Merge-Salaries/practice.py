@@ -37,5 +37,5 @@ with open('salaries-full.csv', 'w') as csvfile:
         'salary'
     ])
 
-    # write al processed data from new_csv_data
+    # write all processed data from new_csv_data
     writer.writerows(new_csv_data)
