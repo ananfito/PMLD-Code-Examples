@@ -1,3 +1,7 @@
+# practice.py
+# merge two csv files 
+# source: https://youtu.be/hE3O5hdE3Fs?feature=shared
+
 import csv
 
 # list to store CSV data for new file
